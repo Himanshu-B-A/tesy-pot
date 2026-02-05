@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Profile_Website_Himanshu-B-A/',
+  base: '/test-pol/',
   build: {
     outDir: 'dist',
   },
